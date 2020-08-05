@@ -6,6 +6,8 @@
 
 An exercise in trying to learn [Rust](https://www.rust-lang.org/) and [wasm-bingen](https://github.com/rustwasm/wasm-bindgen) for front-end web development.
 
+[Play the game](https://bl-rd.github.io/rock-paper-rusty-scissors/).
+
 ## How to install
 
 ```sh
