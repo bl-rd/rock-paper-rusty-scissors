@@ -1,5 +1,7 @@
 # Rock, Paper, (Rusty) Scissors
 
+![Screenshot of the app](rock-paper-scissors-screenshot.png?raw=true)
+
 > A game of rock, paper, scissors on the web written in Rust! 🦀
 
 An exercise in trying to learn [Rust](https://www.rust-lang.org/) and [wasm-bingen](https://github.com/rustwasm/wasm-bindgen) for front-end web development.
