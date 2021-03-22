@@ -2,9 +2,9 @@
 	"dir" : "ltr",
 	"lang" : "English",
 	"name" : "Rock, Paper Scissors 🦀",
-	"scope" : "/stuff-made-by-me/web/labs/rock-paper-scissors/",
+	"scope" : "./",
 	"display" : "fullscreen",
-	"start_url" : "https://bl-rd.github.io/stuff-made-by-me/web/labs/rock-paper-scissors/",
+	"start_url" : "https://bl-rd.github.io/rock-paper-rusty-scissors/",
 	"short_name" : "✊🤚✌",
 	"theme_color" : "transparent",
 	"description" : "A game of rock, paper, scissors built with Rust",
@@ -14,30 +14,30 @@
 	"prefer_related_applications" : false,
 	"icons" : [
 		{
-			"src": "/stuff-made-by-me/web/labs/rock-paper-scissors/icons/48x48.png",
+			"src": "/rock-paper-rusty-scissors/icons/48x48.png",
 			"sizes": "48x48"
 		},
 		{
-			"src": "/stuff-made-by-me/web/labs/rock-paper-scissors/icons/300x300.png",
+			"src": "/rock-paper-rusty-scissors/icons/300x300.png",
 			"sizes": "300x300"
 		},
 		{
-			"src": "/stuff-made-by-me/web/labs/rock-paper-scissors/icons/150x150.png",
+			"src": "/rock-paper-rusty-scissors/icons/150x150.png",
 			"sizes": "150x150"
 		},
 		{
-			"src": "/stuff-made-by-me/web/labs/rock-paper-scissors/icons/192x192.png",
+			"src": "/rock-paper-rusty-scissors/icons/192x192.png",
 			"sizes": "192x192"
 		},
 		{
-			"src": "/stuff-made-by-me/web/labs/rock-paper-scissors/icons/96x96.png",
+			"src": "/rock-paper-rusty-scissors/icons/96x96.png",
 			"sizes": "96x96"
 		},
 		{
-			"src": "/stuff-made-by-me/web/labs/rock-paper-scissors/icons/1024x1024.png",
+			"src": "/rock-paper-rusty-scissors/icons/1024x1024.png",
 			"sizes": "1024x1024"
 		}],
-	"url" : "https://bl-rd.github.io/stuff-made-by-me/web/labs/rock-paper-scissors/",
+	"url" : "https://bl-rd.github.io/rock-paper-rusty-scissors/",
 	"screenshots" : [],
 	"generated" : "true"
 }
