@@ -6,7 +6,7 @@
 
 An exercise in trying to learn [Rust](https://www.rust-lang.org/) and [wasm-bingen](https://github.com/rustwasm/wasm-bindgen) for front-end web development.
 
-[Play the game](https://bl-rd.github.io/rock-paper-rusty-scissors/).
+[Play the game](https://bl-rd.github.io/rock-paper-rusty-scissors/). It's a [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) so you can install it and play offline.
 
 ## How to install
 
