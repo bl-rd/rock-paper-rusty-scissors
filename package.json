@@ -6,7 +6,8 @@
   "scripts": {
     "build": "rimraf dist pkg && webpack --config webpack.prod.js",
     "start": "rimraf dist pkg && webpack-dev-server -d",
-    "test": "cargo test && wasm-pack test --headless"
+    "test": "cargo test && wasm-pack test --headless",
+    "publish": "git subtree push --prefix dist origin gh-pages"
   },
   "devDependencies": {
     "@wasm-tool/wasm-pack-plugin": "^1.1.0",
